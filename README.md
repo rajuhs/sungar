@@ -6,3 +6,4 @@ int main()
  cout<<"Have a Good Day"<<"\n";
  return 0;
  }
+ //This is second commit on the branch directly
